@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and JavaScript
 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carlo98/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carlo98/)
 &nbsp;
 <!---
 CarloAyala/CarloAyala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
